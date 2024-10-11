@@ -1,0 +1,12 @@
+C:\Users\umar.gulzar\source\repos\EcommerceAPI\Ecommerce\obj\Debug\net8.0\Ecommerce.csproj.AssemblyReference.cache
+C:\Users\umar.gulzar\source\repos\EcommerceAPI\Ecommerce\obj\Debug\net8.0\Ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umar.gulzar\source\repos\EcommerceAPI\Ecommerce\obj\Debug\net8.0\Ecommerce.AssemblyInfoInputs.cache
+C:\Users\umar.gulzar\source\repos\EcommerceAPI\Ecommerce\obj\Debug\net8.0\Ecommerce.AssemblyInfo.cs
+C:\Users\umar.gulzar\source\repos\EcommerceAPI\Ecommerce\obj\Debug\net8.0\Ecommerce.csproj.CoreCompileInputs.cache
+C:\Users\umar.gulzar\source\repos\EcommerceAPI\Ecommerce\bin\Debug\net8.0\Ecommerce.deps.json
+C:\Users\umar.gulzar\source\repos\EcommerceAPI\Ecommerce\bin\Debug\net8.0\Ecommerce.dll
+C:\Users\umar.gulzar\source\repos\EcommerceAPI\Ecommerce\bin\Debug\net8.0\Ecommerce.pdb
+C:\Users\umar.gulzar\source\repos\EcommerceAPI\Ecommerce\obj\Debug\net8.0\Ecommerce.dll
+C:\Users\umar.gulzar\source\repos\EcommerceAPI\Ecommerce\obj\Debug\net8.0\refint\Ecommerce.dll
+C:\Users\umar.gulzar\source\repos\EcommerceAPI\Ecommerce\obj\Debug\net8.0\Ecommerce.pdb
+C:\Users\umar.gulzar\source\repos\EcommerceAPI\Ecommerce\obj\Debug\net8.0\ref\Ecommerce.dll

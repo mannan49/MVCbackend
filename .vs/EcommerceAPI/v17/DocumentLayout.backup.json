@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\umar.gulzar\\source\\repos\\EcommerceAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE23C2DA-7D12-4775-8A2E-42F302B2D10B}|Ecommerce\\Ecommerce.csproj|c:\\users\\umar.gulzar\\source\\repos\\ecommerceapi\\ecommerce\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE23C2DA-7D12-4775-8A2E-42F302B2D10B}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE23C2DA-7D12-4775-8A2E-42F302B2D10B}|Ecommerce\\Ecommerce.csproj|c:\\users\\umar.gulzar\\source\\repos\\ecommerceapi\\ecommerce\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE23C2DA-7D12-4775-8A2E-42F302B2D10B}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE23C2DA-7D12-4775-8A2E-42F302B2D10B}|Ecommerce\\Ecommerce.csproj|c:\\users\\umar.gulzar\\source\\repos\\ecommerceapi\\ecommerce\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE23C2DA-7D12-4775-8A2E-42F302B2D10B}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341E6238-B563-47E7-9E4E-836AAB4F1C93}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\umar.gulzar\\source\\repos\\ecommerceapi\\ecommerceapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341E6238-B563-47E7-9E4E-836AAB4F1C93}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE23C2DA-7D12-4775-8A2E-42F302B2D10B}|Ecommerce\\Ecommerce.csproj|c:\\users\\umar.gulzar\\source\\repos\\ecommerceapi\\ecommerce\\attributes\\exceptionfilters\\badrequestexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE23C2DA-7D12-4775-8A2E-42F302B2D10B}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\attributes\\exceptionfilters\\badrequestexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE23C2DA-7D12-4775-8A2E-42F302B2D10B}|Ecommerce\\Ecommerce.csproj|c:\\users\\umar.gulzar\\source\\repos\\ecommerceapi\\ecommerce\\helpers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE23C2DA-7D12-4775-8A2E-42F302B2D10B}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\helpers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE23C2DA-7D12-4775-8A2E-42F302B2D10B}|Ecommerce\\Ecommerce.csproj|c:\\users\\umar.gulzar\\source\\repos\\ecommerceapi\\ecommerce\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE23C2DA-7D12-4775-8A2E-42F302B2D10B}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE23C2DA-7D12-4775-8A2E-42F302B2D10B}|Ecommerce\\Ecommerce.csproj|c:\\users\\umar.gulzar\\source\\repos\\ecommerceapi\\ecommerce\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE23C2DA-7D12-4775-8A2E-42F302B2D10B}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341E6238-B563-47E7-9E4E-836AAB4F1C93}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\umar.gulzar\\source\\repos\\ecommerceapi\\ecommerceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341E6238-B563-47E7-9E4E-836AAB4F1C93}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE23C2DA-7D12-4775-8A2E-42F302B2D10B}|Ecommerce\\Ecommerce.csproj|c:\\users\\umar.gulzar\\source\\repos\\ecommerceapi\\ecommerce\\appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE23C2DA-7D12-4775-8A2E-42F302B2D10B}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE23C2DA-7D12-4775-8A2E-42F302B2D10B}|Ecommerce\\Ecommerce.csproj|c:\\users\\umar.gulzar\\source\\repos\\ecommerceapi\\ecommerce\\attributes\\exceptions\\exceptionresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE23C2DA-7D12-4775-8A2E-42F302B2D10B}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\attributes\\exceptions\\exceptionresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE23C2DA-7D12-4775-8A2E-42F302B2D10B}|Ecommerce\\Ecommerce.csproj|c:\\users\\umar.gulzar\\source\\repos\\ecommerceapi\\ecommerce\\attributes\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE23C2DA-7D12-4775-8A2E-42F302B2D10B}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\attributes\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341E6238-B563-47E7-9E4E-836AAB4F1C93}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\umar.gulzar\\source\\repos\\ecommerceapi\\ecommerceapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{341E6238-B563-47E7-9E4E-836AAB4F1C93}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE23C2DA-7D12-4775-8A2E-42F302B2D10B}|Ecommerce\\Ecommerce.csproj|c:\\users\\umar.gulzar\\source\\repos\\ecommerceapi\\ecommerce\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE23C2DA-7D12-4775-8A2E-42F302B2D10B}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "C:\\Users\\umar.gulzar\\source\\repos\\EcommerceAPI\\Ecommerce\\Models\\ProductModel.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Models\\ProductModel.cs",
+              "ToolTip": "C:\\Users\\umar.gulzar\\source\\repos\\EcommerceAPI\\Ecommerce\\Models\\ProductModel.cs",
+              "RelativeToolTip": "Ecommerce\\Models\\ProductModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T13:49:25.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\umar.gulzar\\source\\repos\\EcommerceAPI\\EcommerceAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\umar.gulzar\\source\\repos\\EcommerceAPI\\EcommerceAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "EcommerceAPI\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAUwC8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T12:22:22.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\umar.gulzar\\source\\repos\\EcommerceAPI\\Ecommerce\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\umar.gulzar\\source\\repos\\EcommerceAPI\\Ecommerce\\Entities\\Product.cs",
+              "RelativeToolTip": "Ecommerce\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T12:03:31.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\umar.gulzar\\source\\repos\\EcommerceAPI\\Ecommerce\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\umar.gulzar\\source\\repos\\EcommerceAPI\\Ecommerce\\Services\\ProductService.cs",
+              "RelativeToolTip": "Ecommerce\\Services\\ProductService.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAiwGgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T11:53:18.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\umar.gulzar\\source\\repos\\EcommerceAPI\\Ecommerce\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\umar.gulzar\\source\\repos\\EcommerceAPI\\Ecommerce\\Services\\IProductService.cs",
+              "RelativeToolTip": "Ecommerce\\Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T11:52:45.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\umar.gulzar\\source\\repos\\EcommerceAPI\\Ecommerce\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\umar.gulzar\\source\\repos\\EcommerceAPI\\Ecommerce\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Ecommerce\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwCkAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T11:49:09.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\umar.gulzar\\source\\repos\\EcommerceAPI\\Ecommerce\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\umar.gulzar\\source\\repos\\EcommerceAPI\\Ecommerce\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "Ecommerce\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T11:48:07.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BadRequestException.cs",
+              "DocumentMoniker": "C:\\Users\\umar.gulzar\\source\\repos\\EcommerceAPI\\Ecommerce\\Attributes\\Exceptions\\BadRequestException.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Attributes\\Exceptions\\BadRequestException.cs",
+              "ToolTip": "C:\\Users\\umar.gulzar\\source\\repos\\EcommerceAPI\\Ecommerce\\Attributes\\Exceptions\\BadRequestException.cs",
+              "RelativeToolTip": "Ecommerce\\Attributes\\Exceptions\\BadRequestException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T12:39:44.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BadRequestExceptionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\umar.gulzar\\source\\repos\\EcommerceAPI\\Ecommerce\\Attributes\\ExceptionFilters\\BadRequestExceptionFilter.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Attributes\\ExceptionFilters\\BadRequestExceptionFilter.cs",
+              "ToolTip": "C:\\Users\\umar.gulzar\\source\\repos\\EcommerceAPI\\Ecommerce\\Attributes\\ExceptionFilters\\BadRequestExceptionFilter.cs",
+              "RelativeToolTip": "Ecommerce\\Attributes\\ExceptionFilters\\BadRequestExceptionFilter.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAcwCYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T12:40:56.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\umar.gulzar\\source\\repos\\EcommerceAPI\\EcommerceAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "EcommerceAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\umar.gulzar\\source\\repos\\EcommerceAPI\\EcommerceAPI\\appsettings.json",
+              "RelativeToolTip": "EcommerceAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-11T12:18:10.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\umar.gulzar\\source\\repos\\EcommerceAPI\\Ecommerce\\Helpers\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Helpers\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\umar.gulzar\\source\\repos\\EcommerceAPI\\Ecommerce\\Helpers\\MappingProfile.cs",
+              "RelativeToolTip": "Ecommerce\\Helpers\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T13:46:27.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umar.gulzar\\source\\repos\\EcommerceAPI\\EcommerceAPI\\Program.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\umar.gulzar\\source\\repos\\EcommerceAPI\\EcommerceAPI\\Program.cs",
+              "RelativeToolTip": "EcommerceAPI\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAkwC0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T12:18:37.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppConfig.cs",
+              "DocumentMoniker": "C:\\Users\\umar.gulzar\\source\\repos\\EcommerceAPI\\Ecommerce\\AppConfig.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\AppConfig.cs",
+              "ToolTip": "C:\\Users\\umar.gulzar\\source\\repos\\EcommerceAPI\\Ecommerce\\AppConfig.cs",
+              "RelativeToolTip": "Ecommerce\\AppConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T12:20:47.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ExceptionResponse.cs",
+              "DocumentMoniker": "C:\\Users\\umar.gulzar\\source\\repos\\EcommerceAPI\\Ecommerce\\Attributes\\Exceptions\\ExceptionResponse.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Attributes\\Exceptions\\ExceptionResponse.cs",
+              "ToolTip": "C:\\Users\\umar.gulzar\\source\\repos\\EcommerceAPI\\Ecommerce\\Attributes\\Exceptions\\ExceptionResponse.cs",
+              "RelativeToolTip": "Ecommerce\\Attributes\\Exceptions\\ExceptionResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T12:39:59.196Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
